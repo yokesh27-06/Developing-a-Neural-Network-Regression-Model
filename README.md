@@ -6,7 +6,8 @@ To develop a neural network regression model to predict a student's final marks 
 ## THEORY
 In educational institutions, understanding the direct impact of study habits on academic performance is crucial. The goal of this project is to build a predictive system that takes a single continuous feature—the number of hours a student spends studying—and outputs a continuous numerical prediction of their expected final exam score. Because the target variable (marks) is a continuous numerical value rather than a discrete category, this challenge is classified as a regression problem
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1116" height="757" alt="543807924-bf1e1aad-fecb-4ecb-a3cf-1e1f04db0f82" src="https://github.com/user-attachments/assets/b4aeadb3-5e2b-4233-b11c-999e1258e3dc" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
